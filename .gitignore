@@ -1,0 +1,13 @@
+.idea/
+node_modules/
+venv/
+__pycache__/
+uploader-api/uploads/*
+!uploader-api/uploads/.gitkeep
+*.log
+.env
+*-lock.json
+*.lock
+.DS_Store
+.AppleDouble
+.LSOverride
